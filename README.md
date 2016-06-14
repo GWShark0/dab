@@ -1,4 +1,2 @@
-Project2
+Dots and Boxes
 ========
-
-Reposity for Project 2
